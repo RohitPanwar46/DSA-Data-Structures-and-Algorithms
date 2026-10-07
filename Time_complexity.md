@@ -20,7 +20,6 @@ We have two methods to calculate time complexity
 
 1. Recurrence relation
 
-
 ```
  2. TC = total no. of recursion call * work in each call
 ```
@@ -30,4 +29,3 @@ We have two methods to calculate time complexity
 ```
 SC = height of call stack * memory in each cell
 ```
-
